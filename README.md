@@ -1,6 +1,4 @@
-<!-- UPDATE:START (LAST_UPDATE:format=DD-MMM-YYYY HH:mm) -->
-![last_update](https://img.shields.io/badge/last%20update-16--Sep--2021%2021:11%20(GMT%200)-blue)
-<!-- UPDATE:END -->
+
 Hi there! Welcome to my personal GitHub repositories.
 Hope you enjoy your way ... ;)
 
