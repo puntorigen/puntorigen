@@ -1,0 +1,36 @@
+{
+  "name": "puntorigen",
+  "version": "1.0.0",
+  "description": "Fork of puntorigen/be_grateful self-updating readme file",
+  "main": "index.js",
+  "scripts": {
+    "update_readme": "md-magic --ignore 'node_modules'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puntorigen/puntorigen.git"
+  },
+  "keywords": [
+    "thanks",
+    "fans",
+    "badge",
+    "readme.md",
+    "readme",
+    "free",
+    "beauty",
+    "puntorigen"
+  ],
+  "author": "Pablo Schaffner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/puntorigen/puntorigen/issues"
+  },
+  "homepage": "https://github.com/puntorigen/puntorigen#readme",
+  "devDependencies": {
+    "markdown-magic": "^2.5.2",
+    "date-and-time": "^2.0.0",
+    "encodeurl": "^1.0.2",
+    "got": "^11.8.2"
+  },
+  "dependencies": {}
+}

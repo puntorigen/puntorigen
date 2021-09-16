@@ -1,16 +1,16 @@
-### Hi there 👋
+<!-- UPDATE:START (LAST_UPDATE:format=DD-MMM-YYYY HH:mm) -->
+![last_update](https://img.shields.io/badge/last%20update-16--Sep--2021%2020:28%20(GMT%200)-green)
+<!-- UPDATE:END -->
+Hi there! Welcome to my personal GitHub repositories.
+Hope you enjoy your way ... ;)
 
-<!--
-**puntorigen/puntorigen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- UPDATE:START (QUOTES) -->
+<h3>"The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself."</h3>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Henry Miller</i></small>
+<!-- UPDATE:END -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- UPDATE:START (FOLLOWERS) -->
+## Many thanks to my followers ..
+<a href="https://github.com/torrmal" alt="torrmal"><img src="https://avatars.githubusercontent.com/u/5898506?v=4" width="30" height="30"/></a> <a href="https://github.com/afcarvallo" alt="afcarvallo"><img src="https://avatars.githubusercontent.com/u/22074766?v=4" width="30" height="30"/></a> <a href="https://github.com/MafujShikder" alt="MafujShikder"><img src="https://avatars.githubusercontent.com/u/34533694?v=4" width="30" height="30"/></a> <a href="https://github.com/geeksourcecodes" alt="geeksourcecodes"><img src="https://avatars.githubusercontent.com/u/57898683?v=4" width="30" height="30"/></a> <a href="https://github.com/ittybitty8" alt="ittybitty8"><img src="https://avatars.githubusercontent.com/u/80985024?v=4" width="30" height="30"/></a> 
+<!-- UPDATE:END -->
+<br/>
