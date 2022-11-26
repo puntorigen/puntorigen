@@ -3,8 +3,8 @@ Hi there! Welcome to my personal GitHub repositories.
 Hope you enjoy your way ... ;)
 
 <!-- UPDATE:START (QUOTES) -->
-<h3>"Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have."</h3>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Jean-Paul Sartre</i></small>
+<h3>"Experience is not what happens to a man. It is what a man does with what happens to him."</h3>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Aldous Huxley</i></small>
 <!-- UPDATE:END -->
 
 <!-- UPDATE:START (FOLLOWERS) -->
