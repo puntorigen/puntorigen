@@ -3,8 +3,8 @@ Hi there! Welcome to my personal GitHub repositories.
 Hope you enjoy your way ... ;)
 
 <!-- UPDATE:START (QUOTES) -->
-<h3>"To be thoughtful and kind only takes a few seconds compared to the timeless hurt caused by one rude gesture."</h3>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Byron Pulsifer</i></small>
+<h3>"Remember always that you not only have the right to be an individual, you have an obligation to be one."</h3>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Eleanor Roosevelt</i></small>
 <!-- UPDATE:END -->
 
 <!-- UPDATE:START (FOLLOWERS) -->
