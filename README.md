@@ -3,8 +3,8 @@ Hi there! Welcome to my personal GitHub repositories.
 Hope you enjoy your way ... ;)
 
 <!-- UPDATE:START (QUOTES) -->
-<h3>"Formula for success: under promise and over deliver."</h3>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Tom Peters</i></small>
+<h3>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</h3>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Barack Obama</i></small>
 <!-- UPDATE:END -->
 
 <!-- UPDATE:START (FOLLOWERS) -->
