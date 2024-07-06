@@ -3,8 +3,8 @@ Hi there! Welcome to my personal GitHub repositories.
 Hope you enjoy your way ... ;)
 
 <!-- UPDATE:START (QUOTES) -->
-<h3>"“I can always choose, but I ought to know that if I do not choose, I am still choosing.”"</h3>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Jean-Paul Sartre</i></small>
+<h3>"Courage is not about taking risks unknowingly but putting your own being in front of challenges that others may not be able to."</h3>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Byron Pulsifer</i></small>
 <!-- UPDATE:END -->
 
 <!-- UPDATE:START (FOLLOWERS) -->
