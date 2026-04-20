@@ -47,11 +47,12 @@ module.exports = {
         let followers = await get_users();
         if (followers.length==0) return '';
         let resp = `# Many thanks to my followers ..\n`;
-        //resp += `<ol>\n`;
         for (let user of followers) {
-          resp += `<a href="${user.github}" alt="${user.name}"><img src="${user.avatar}" width="30" height="30"/></a> `;
+          // Only one of width/height is set on purpose: setting both triggers
+          // GitHub's `js-gh-image-fallback` class which adds `display:block`,
+          // forcing every avatar onto its own row.
+          resp += `<a href="${user.github}" title="${user.name}"><img src="${user.avatar}" alt="${user.name}" height="30"/></a> `;
         }
-        //resp += `</ol>\n`;
         return resp;
       }
     },
